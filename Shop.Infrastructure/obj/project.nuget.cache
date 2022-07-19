@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tg+uRtFqD69/NXBRKHB4mpDNyUvzGqKl3nHAC6EznxY9SsItetQjiH8ES5hquvUvETojJHo+GQByQD6d9Xxk0g==",
+  "dgSpecHash": "GIMFsd0PR6BxNufpB/dD60h2zkU+d1bosff8PB8UBiWafqxkDCp6vLxp8tbosuD5guQt2fA4QAAVfUEub/cCAw==",
   "success": true,
-  "projectFilePath": "D:\\Пробники\\test.git\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj",
+  "projectFilePath": "D:\\Пробники\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

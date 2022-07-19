@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Пробники\\test.git\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Пробники\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj",
       "projectName": "Shop.Infrastructure",
-      "projectPath": "D:\\Пробники\\test.git\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj",
+      "projectPath": "D:\\Пробники\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\danik\\.nuget\\packages\\",
-      "outputPath": "D:\\Пробники\\test.git\\Shop\\Shop.Infrastructure\\obj\\",
+      "outputPath": "D:\\Пробники\\Shop\\Shop.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danik\\AppData\\Roaming\\NuGet\\NuGet.Config",

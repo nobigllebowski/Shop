@@ -6223,11 +6223,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Пробники\\test.git\\Shop\\Shop\\Shop.csproj",
+      "projectUniqueName": "D:\\Пробники\\Shop\\Shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "D:\\Пробники\\test.git\\Shop\\Shop\\Shop.csproj",
+      "projectPath": "D:\\Пробники\\Shop\\Shop\\Shop.csproj",
       "packagesPath": "C:\\Users\\danik\\.nuget\\packages\\",
-      "outputPath": "D:\\Пробники\\test.git\\Shop\\Shop\\obj\\",
+      "outputPath": "D:\\Пробники\\Shop\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danik\\AppData\\Roaming\\NuGet\\NuGet.Config",
