@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0LNt1Mf5rk4nr1geN9vvZVcqIyt8EGWW0F0Mul2+LFy65CLEk6ZyQb1LPGUKpUUiA1rNbgo0qoaG+FMCrrHElA==",
+  "dgSpecHash": "6eN2Eq0WLGqzyFrNaqfv9AHqijqB3cRtADYqq5DZuuhWWTWIk529UfRWPZ5g6aiY+8FnDL2J1I0fdKOvtGZpfQ==",
   "success": true,
   "projectFilePath": "D:\\Пробники\\Shop\\Shop.Domain\\Shop.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\danik\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

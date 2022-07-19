@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8LwX7N6YDzhbXjUMpKUNxvYE935MHFtdY9iELdZ7jyUjeSwaCa1omMUyO0B0mpwOIMRx4583Bb4PtzTUOkYodg==",
+  "dgSpecHash": "7U3niP44ujquWTXXN8y37H0+Tm681lI0RX63zq2zxW1IPuHeA2xwmBDj/CnNsM2xLlUKNbMysa9iLtdYIcXeCw==",
   "success": true,
-  "projectFilePath": "D:\\Пробники\\test.git\\Shop\\Shop\\Shop.csproj",
+  "projectFilePath": "D:\\Пробники\\Shop\\Shop\\Shop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danik\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\danik\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
