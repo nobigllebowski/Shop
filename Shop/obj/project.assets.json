@@ -1681,6 +1681,50 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Shop.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.17",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.17"
+        },
+        "compile": {
+          "bin/placeholder/Shop.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shop.Core.dll": {}
+        }
+      },
+      "Shop.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.17",
+          "Shop.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Shop.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shop.Domain.dll": {}
+        }
+      },
+      "Shop.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.17",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.17",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17",
+          "Shop.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Shop.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shop.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -6206,6 +6250,21 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "Shop.Core/1.0.0": {
+      "type": "project",
+      "path": "../Shop.Core/Shop.Core.csproj",
+      "msbuildProject": "../Shop.Core/Shop.Core.csproj"
+    },
+    "Shop.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Shop.Domain/Shop.Domain.csproj",
+      "msbuildProject": "../Shop.Domain/Shop.Domain.csproj"
+    },
+    "Shop.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Shop.Infrastructure/Shop.Infrastructure.csproj",
+      "msbuildProject": "../Shop.Infrastructure/Shop.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6215,7 +6274,8 @@
       "Microsoft.EntityFrameworkCore.Relational >= 5.0.17",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.17",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.17",
-      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.11.1"
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.11.1",
+      "Shop.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6244,7 +6304,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj": {
+              "projectPath": "D:\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

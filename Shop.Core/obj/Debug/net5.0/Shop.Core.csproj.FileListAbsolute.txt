@@ -2,7 +2,6 @@ D:\Shop\Shop.Core\bin\Debug\net5.0\Shop.Core.deps.json
 D:\Shop\Shop.Core\bin\Debug\net5.0\Shop.Core.dll
 D:\Shop\Shop.Core\bin\Debug\net5.0\ref\Shop.Core.dll
 D:\Shop\Shop.Core\bin\Debug\net5.0\Shop.Core.pdb
-D:\Shop\Shop.Core\obj\Debug\net5.0\Shop.Core.csproj.AssemblyReference.cache
 D:\Shop\Shop.Core\obj\Debug\net5.0\Shop.Core.GeneratedMSBuildEditorConfig.editorconfig
 D:\Shop\Shop.Core\obj\Debug\net5.0\Shop.Core.AssemblyInfoInputs.cache
 D:\Shop\Shop.Core\obj\Debug\net5.0\Shop.Core.AssemblyInfo.cs
