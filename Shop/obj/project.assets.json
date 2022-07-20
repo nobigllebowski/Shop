@@ -6218,19 +6218,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\danik\\.nuget\\packages\\": {}
+    "C:\\Users\\user-pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Пробники\\Shop\\Shop\\Shop.csproj",
+      "projectUniqueName": "D:\\Shop\\Shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "D:\\Пробники\\Shop\\Shop\\Shop.csproj",
-      "packagesPath": "C:\\Users\\danik\\.nuget\\packages\\",
-      "outputPath": "D:\\Пробники\\Shop\\Shop\\obj\\",
+      "projectPath": "D:\\Shop\\Shop\\Shop.csproj",
+      "packagesPath": "C:\\Users\\user-pc\\.nuget\\packages\\",
+      "outputPath": "D:\\Shop\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\danik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user-pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6297,7 +6297,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }
