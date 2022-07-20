@@ -14,11 +14,14 @@ D:\Shop\Shop.Domain\bin\Debug\net5.0\Shop.Domain.deps.json
 D:\Shop\Shop.Domain\bin\Debug\net5.0\Shop.Domain.dll
 D:\Shop\Shop.Domain\bin\Debug\net5.0\ref\Shop.Domain.dll
 D:\Shop\Shop.Domain\bin\Debug\net5.0\Shop.Domain.pdb
+D:\Shop\Shop.Domain\bin\Debug\net5.0\Shop.Core.dll
+D:\Shop\Shop.Domain\bin\Debug\net5.0\Shop.Core.pdb
 D:\Shop\Shop.Domain\obj\Debug\net5.0\Shop.Domain.csproj.AssemblyReference.cache
 D:\Shop\Shop.Domain\obj\Debug\net5.0\Shop.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\Shop\Shop.Domain\obj\Debug\net5.0\Shop.Domain.AssemblyInfoInputs.cache
 D:\Shop\Shop.Domain\obj\Debug\net5.0\Shop.Domain.AssemblyInfo.cs
 D:\Shop\Shop.Domain\obj\Debug\net5.0\Shop.Domain.csproj.CoreCompileInputs.cache
+D:\Shop\Shop.Domain\obj\Debug\net5.0\Shop.Domain.csproj.CopyComplete
 D:\Shop\Shop.Domain\obj\Debug\net5.0\Shop.Domain.dll
 D:\Shop\Shop.Domain\obj\Debug\net5.0\ref\Shop.Domain.dll
 D:\Shop\Shop.Domain\obj\Debug\net5.0\Shop.Domain.pdb
