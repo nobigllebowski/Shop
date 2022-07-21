@@ -1,0 +1,211 @@
+header {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.07);
+}
+
+    header .wrapper {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px 0;
+        position: relative;
+    }
+
+    header .header-auth-block {
+        position: relative;
+    }
+
+    header .header-auth-dropdown {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0px;
+        margin-top: 8px;
+        width: 282px;
+        max-width: 100%;
+        background: rgba(51, 111, 238, 0.9);
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 8px;
+        z-index: 99;
+        padding: 13px 0 8px 0;
+    }
+
+        header .header-auth-dropdown:before {
+            content: "";
+            display: block;
+            width: 100%;
+            height: 8px;
+            position: absolute;
+            top: -8px;
+            left: 0;
+            z-index: 9;
+        }
+
+        header .header-auth-dropdown ul {
+            display: block;
+            list-style: none;
+            margin: 0;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            padding: 0px 15px 0px 15px;
+        }
+
+            header .header-auth-dropdown ul li {
+                margin: 0;
+                padding: 0px 0;
+                display: block;
+                border-bottom: 1px solid rgba(255,255,255,0.1);
+            }
+
+                header .header-auth-dropdown ul li a {
+                    display: block;
+                    text-decoration: none;
+                    font-weight: normal;
+                    font-size: 14px;
+                    line-height: 17px;
+                    color: #FFFFFF;
+                    padding: 10px 0;
+                    margin: 0;
+                }
+
+    header .header-auth-block.active:hover .header-auth-dropdown {
+        display: block;
+    }
+
+    header .header-auth-block .name {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        padding-right: 15px;
+        min-width: 100px;
+        max-width: 460px;
+        display: inline-block;
+        text-align: right;
+        vertical-align: middle;
+    }
+
+    header .header-system-title {
+        display: block;
+        font-weight: 800;
+        font-size: 25px;
+        line-height: 30px;
+        color: #336FEE;
+        margin: 0;
+        padding: 0 0 0px 0;
+        text-align: center;
+        font-family: "Montserrat", Roboto, "Helvetica Neue", sans-serif !important;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    header .header-theme-block button:before {
+        content: "";
+        display: block;
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        position: absolute;
+        top: 50%;
+        left: 100%;
+        margin: -4px 0 0 10px;
+        background: #336FEE;
+    }
+
+    header button {
+        background: transparent;
+        border: 0;
+        outline: none;
+        position: relative;
+        padding: 0;
+        margin: 0;
+    }
+
+        header button:hover {
+            cursor: pointer;
+        }
+
+    header mat-icon {
+        display: inline-block;
+        vertical-align: middle;
+        color: #000;
+    }
+
+        header mat-icon.done-icon {
+            width: 20px;
+            height: 20px;
+            margin-left: 9px;
+        }
+
+        header mat-icon.auth-icon {
+            width: 30px;
+            height: 30px;
+        }
+
+        header mat-icon.theme-icon {
+            width: 30px;
+            height: 30px;
+        }
+
+
+
+    header mat-icon {
+        width: 30px;
+        height: 30px;
+    }
+
+.light-theme-icon {
+    background: url(../img/light-theme-icon.svg) no-repeat center center;
+    background-size: 30px;
+}
+
+button.active > .light-theme-icon {
+    display: none;
+}
+
+.dark-theme-icon {
+    background: url(../img/dark-theme-icon.svg) no-repeat center center;
+    background-size: 30px;
+}
+
+button:not(.active) > .dark-theme-icon {
+    display: none;
+}
+
+.auth-icon {
+    background: url(../img/auth-icon.svg) no-repeat center center;
+    background-size: 30px;
+}
+
+button:not(.active) > .auth-icon {
+    display: none;
+}
+
+.auth-icon2 {
+    background: url(../img/auth-icon.svg) no-repeat center center;
+    background-size: 30px;
+    opacity: 0.5;
+}
+
+button.active > .auth-icon2 {
+    display: none;
+}
+
+.done-icon {
+    width: 20px;
+    height: 20px;
+    background: url(../img/done-icon.svg) no-repeat center center;
+}
+
+button:not(.active) > .done-icon {
+    display: none;
+}
+
+header button:hover {
+    background: transparent;
+}
+
+.header-auth-block:not(.active) > .name {
+    display: none;
+}

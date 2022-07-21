@@ -4,6 +4,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Shop.Core.NSwag;
+using Shop.Core.NSwag.Module;
 using Shop.Infrastructure;
 
 namespace Shop
@@ -22,7 +24,8 @@ namespace Shop
         {
             services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("Connection")));
-            services.AddRazorPages();
+            services.AddControllersWithViews();
+            services.AddSwaggerDocument();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -39,16 +42,23 @@ namespace Shop
                 app.UseHsts();
             }
 
+            if (!env.IsProduction())
+            {
+                app.UseOpenApi();
+                app.UseSwaggerUi3();
+            }            
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
             app.UseRouting();
-
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();
+                endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }

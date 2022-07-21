@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+
+    <title>ЕСИА ЕАСУЗ</title>
+
+    <link rel="icon" type="image/x-icon" href="~/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="~/favicon.ico" />
+
+    <link rel="stylesheet" href="~/css/header.component.css">
+    <link rel="stylesheet" href="~/css/footer.component.css">
+    <link rel="stylesheet" href="~/css/styles.css">
+    <link rel="stylesheet" href="~/css/auth2.component.css">
+
+</head>
+<body class="auth-page2">
+    <div class="block-page">
+
+        <div class="block-content">
+            <main>
+                <div class="page-main">
+                    <div class="wrapper">
+
+                        @RenderBody()
+
+                    </div>
+
+                </div>
+
+            </main>
+        </div>
+
+    </div>
+
+    <div class="block-footer">
+        <footer>
+            <div class="wrapper">
+                <p>
+                    2022
+                </p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.slim.min.js"></script>
+    <script src="~/lib/jquery/jquery-3.4.1.min.js"></script>
+    <script src="~/js/scripts.js"></script>
+
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>
