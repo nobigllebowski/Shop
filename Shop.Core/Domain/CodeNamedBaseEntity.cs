@@ -1,8 +1,11 @@
 ﻿namespace Shop.Core.Domain
 {
-    public class CodeNamedBaseEntity : NamedBaseEntity
+    /// <summary>
+    /// Базовая сущность, содержащая свойства "Наименование", "Код"
+    /// </summary>
+    public abstract class CodeNamedBaseEntity : NamedBaseEntity
     {
-        #nullable enable
+        #nullable enable 
         public string? Code { get; set; }
     }
 }

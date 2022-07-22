@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1+YNG7YHa6NRFgY4vqPeraDkPmjUHgig5yLVkrceLS7p3tLGsgBhhFy2ePx2H0rNaMrTxuROhYYUYY2x/UFpLA==",
+  "dgSpecHash": "ngoSRz8DQO1yMlFY1z7MinjSChBbCF6mkrqIIpYDHT9hAAd/nJPNiB7XaoeiYWOaA6OgAf7peoNZoOmqpSWtVg==",
   "success": true,
   "projectFilePath": "D:\\Shop\\Shop.Domain\\Shop.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user-pc\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512",
-    "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.17\\microsoft.entityframeworkcore.5.0.17.nupkg.sha512",
     "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.17\\microsoft.entityframeworkcore.abstractions.5.0.17.nupkg.sha512",
     "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.17\\microsoft.entityframeworkcore.analyzers.5.0.17.nupkg.sha512",

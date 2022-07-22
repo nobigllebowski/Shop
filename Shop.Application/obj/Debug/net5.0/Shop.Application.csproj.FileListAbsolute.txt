@@ -1,0 +1,11 @@
+D:\Shop\Shop.Application\bin\Debug\net5.0\Shop.Application.deps.json
+D:\Shop\Shop.Application\bin\Debug\net5.0\Shop.Application.dll
+D:\Shop\Shop.Application\bin\Debug\net5.0\ref\Shop.Application.dll
+D:\Shop\Shop.Application\bin\Debug\net5.0\Shop.Application.pdb
+D:\Shop\Shop.Application\obj\Debug\net5.0\Shop.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shop\Shop.Application\obj\Debug\net5.0\Shop.Application.AssemblyInfoInputs.cache
+D:\Shop\Shop.Application\obj\Debug\net5.0\Shop.Application.AssemblyInfo.cs
+D:\Shop\Shop.Application\obj\Debug\net5.0\Shop.Application.csproj.CoreCompileInputs.cache
+D:\Shop\Shop.Application\obj\Debug\net5.0\Shop.Application.dll
+D:\Shop\Shop.Application\obj\Debug\net5.0\ref\Shop.Application.dll
+D:\Shop\Shop.Application\obj\Debug\net5.0\Shop.Application.pdb

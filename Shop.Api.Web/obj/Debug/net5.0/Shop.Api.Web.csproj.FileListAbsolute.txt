@@ -1,0 +1,11 @@
+D:\Shop\Shop.Api.Web\bin\Debug\net5.0\Shop.Api.Web.deps.json
+D:\Shop\Shop.Api.Web\bin\Debug\net5.0\Shop.Api.Web.dll
+D:\Shop\Shop.Api.Web\bin\Debug\net5.0\ref\Shop.Api.Web.dll
+D:\Shop\Shop.Api.Web\bin\Debug\net5.0\Shop.Api.Web.pdb
+D:\Shop\Shop.Api.Web\obj\Debug\net5.0\Shop.Api.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shop\Shop.Api.Web\obj\Debug\net5.0\Shop.Api.Web.AssemblyInfoInputs.cache
+D:\Shop\Shop.Api.Web\obj\Debug\net5.0\Shop.Api.Web.AssemblyInfo.cs
+D:\Shop\Shop.Api.Web\obj\Debug\net5.0\Shop.Api.Web.csproj.CoreCompileInputs.cache
+D:\Shop\Shop.Api.Web\obj\Debug\net5.0\Shop.Api.Web.dll
+D:\Shop\Shop.Api.Web\obj\Debug\net5.0\ref\Shop.Api.Web.dll
+D:\Shop\Shop.Api.Web\obj\Debug\net5.0\Shop.Api.Web.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Shop.Api.Web/1.0.0": {
+        "runtime": {
+          "Shop.Api.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shop.Api.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

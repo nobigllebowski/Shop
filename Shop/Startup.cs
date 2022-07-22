@@ -4,8 +4,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Shop.Core.NSwag;
-using Shop.Core.NSwag.Module;
 using Shop.Infrastructure;
 
 namespace Shop

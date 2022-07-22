@@ -81,6 +81,7 @@ D:\Shop\Shop\bin\Debug\net5.0\ref\Shop.dll
 D:\Shop\Shop\bin\Debug\net5.0\Shop.pdb
 D:\Shop\Shop\bin\Debug\net5.0\Shop.Views.dll
 D:\Shop\Shop\bin\Debug\net5.0\Shop.Views.pdb
+D:\Shop\Shop\bin\Debug\net5.0\AutoMapper.dll
 D:\Shop\Shop\bin\Debug\net5.0\Humanizer.dll
 D:\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
 D:\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
