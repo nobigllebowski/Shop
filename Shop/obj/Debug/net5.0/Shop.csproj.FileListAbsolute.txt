@@ -83,6 +83,8 @@ D:\Shop\Shop\bin\Debug\net5.0\Shop.Views.dll
 D:\Shop\Shop\bin\Debug\net5.0\Shop.Views.pdb
 D:\Shop\Shop\bin\Debug\net5.0\AutoMapper.dll
 D:\Shop\Shop\bin\Debug\net5.0\Humanizer.dll
+D:\Shop\Shop\bin\Debug\net5.0\MediatR.dll
+D:\Shop\Shop\bin\Debug\net5.0\MediatR.Contracts.dll
 D:\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
 D:\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
 D:\Shop\Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll

@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3Me0479YaGjLJRDmtFQX4ZLFwCta/8fjUNWMesB7HhRU8ZvtTYz7yj44ilggvPSsL7DaW0NEDzfn+njEGuqHdQ==",
+  "dgSpecHash": "4K2z00cG4VrBc7a3QDvQq9uvv3A537g+GQs0hEIaJZyKB9XPTeu5LpjhAuUOybAlJjrvYdWSFB3FU4qdh/SgiQ==",
   "success": true,
   "projectFilePath": "D:\\Shop\\Shop.Core\\Shop.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user-pc\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\user-pc\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\user-pc\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512",
     "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
